@@ -27,7 +27,7 @@ Prerequisites
 Setup Instructions
 
 1. Clone this repository:
-   git clone https://github.com/YOUR_USERNAME/p2p-file-sharing-python.git
+   git clone https://github.com/EminaToric/p2p-file-sharing-python.git
    cd p2p-file-sharing-python
 
 2. Create required folders:
